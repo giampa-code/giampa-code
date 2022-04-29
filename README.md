@@ -14,11 +14,14 @@ I’m currently working on my personal blog and a Django based webapp for a pers
 
 ## Techonologies
 
+- Programming Languages: Python, JavaScript
 - Data analysis: Pandas, Numpy, SQL
 - Machine Learning: SKL, TensorFlow
+- Automatation: Selenium
 - BI: Power BI
 - Backend Development: Django
 - Frontend development: HTML, CSS, Bootstrap, JS (in process)
+- Blogging: Wordpress
 - OS: Ubuntu and Windows
 
 
