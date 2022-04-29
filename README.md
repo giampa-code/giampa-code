@@ -11,6 +11,9 @@ My mission is to work for a more ⚖️just  and ♻️sustainable future, eithe
 
 I’m currently working on my personal blog and a Django based webapp for a personal project.
 
+## Achievements
+### Data Science
+- Top 1.5% in the [Housing Prices Competition for Kaggle Learn Users!](https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard?search=Gonzalo+Giampaolo) -> [Code](https://github.com/giampa-code/housing_price_kaggle)
 
 ## Techonologies
 
