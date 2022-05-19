@@ -30,7 +30,7 @@ I’m currently working on my personal blog and a Django based webapp for a pers
 - Automatation: ![Selenium](https://img.shields.io/badge/Selenium-grey?style=flat&logo=selenium&logoColor=white)
 - BI: ![PowerBI](https://img.shields.io/badge/PowerBI-grey?style=flat&logo=powerbi&logoColor=white)
 - Backend Development: ![Django](https://img.shields.io/badge/Django-grey?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=sql&logoColor=white)
-- Frontend development: ![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React%20(in)-grey?style=flat&logo=react&logoColor=white)
+- Frontend development: ![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React%20(in%20process)-grey?style=flat&logo=react&logoColor=white)
 - Blogging: ![Wordpress](https://img.shields.io/badge/Wordpress-grey?style=flat&logo=wordpress&logoColor=white)
 - OS: ![Ubuntu](https://img.shields.io/badge/Ubuntu-grey?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-grey?style=flat&logo=windows&logoColor=white)
 
