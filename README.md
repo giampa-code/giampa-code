@@ -11,7 +11,7 @@
 My name is Gonzalo Giampaolo, I am an Electrical Engineer from 🇦🇷 Argentina who really likes coding.
 My mission is to work for a more ⚖️just  and ♻️sustainable future, either by applying innovative technologies or within reach solutions.
 
-I’m currently working on my personal blog and a Django based webapp for a personal project.
+I’m currently working on my personal blog and a Django based webapp for a personal projects.
 
 ## Achievements
 ### Data Science
@@ -24,7 +24,7 @@ I’m currently working on my personal blog and a Django based webapp for a pers
 - Machine Learning: SKL, TensorFlow
 - Automatation: Selenium
 - BI: Power BI
-- Backend Development: Django
+- Backend Development: Django and FastAPI
 - Frontend development: HTML, CSS, Bootstrap, JS (in process)
 - Blogging: Wordpress
 - OS: Ubuntu and Windows
