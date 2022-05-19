@@ -6,7 +6,6 @@
 [![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gonzalogiampaolo.com)
 [![Contact](https://img.shields.io/badge/ML-Repository-succes?style=for-the-badge&logo=python&logoColor=white)](http://giampa.pythonanywhere.com/)
 
-scikitlearn
 
 ## About me.
 My name is Gonzalo Giampaolo, I am an Electrical Engineer from 🇦🇷 Argentina who really likes coding.
