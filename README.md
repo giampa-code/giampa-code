@@ -20,7 +20,7 @@ I’m currently working on my personal blog and a Django based webapp for a pers
 
 ## Techonologies
 
-[![Python](https://img.shields.io/badge/Python-?style=falta&logo=python)](#)
+[![Python](https://img.shields.io/badge/Python-?style=flta&logo=python)]
 
 - Programming Languages: Python, JavaScript
 - Data analysis: Pandas, Numpy, SQL
