@@ -20,16 +20,16 @@ I’m currently working on my personal blog and a Django based webapp for a pers
 
 ## Techonologies
 
-![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-grey?style=flat&logo=powerbi&logoColor=white)
 
-- Programming Languages: Python, JavaScript
-- Data analysis: Pandas, Numpy, SQL
+
+
+
+- Programming Languages: ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=white)
+- Data analysis: ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy&logoColor=white
 - Machine Learning: SKL, TensorFlow
 - Automatation: Selenium
-- BI: Power BI
-- Backend Development: Django and FastAPI
+- BI: ![PowerBI](https://img.shields.io/badge/PowerBI-grey?style=flat&logo=powerbi&logoColor=white)
+- Backend Development: Django and FastAPI SQL
 - Frontend development: HTML, CSS, Bootstrap, JS (in process)
 - Blogging: Wordpress
 - OS: Ubuntu and Windows
