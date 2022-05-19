@@ -21,8 +21,8 @@ I’m currently working on my personal blog and a Django based webapp for a pers
 ## Techonologies
 
 ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-grey?style=flat&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/powerbi-grey?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-grey?style=flat&logo=powerbi&logoColor=white)
 
 - Programming Languages: Python, JavaScript
 - Data analysis: Pandas, Numpy, SQL
