@@ -1,9 +1,12 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-giampaolo/)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-giampaolo/)
 [![Twitter](https://img.shields.io/badge/FOLLOW%20ME-Twitter-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/Giampa_ok)
 [![Webpage](https://img.shields.io/badge/MY%20BLOG-Webpage-orange?style=for-the-badge&logo=blogger)](https://gonzalogiampaolo.com)
 [![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gonzalogiampaolo.com)
+[![Contact](https://img.shields.io/badge/ML-Rep-red?style=for-the-badge&logo=scikitlearn&logoColor=white)](mailto:contact@gonzalogiampaolo.com)
+
+scikitlearn
 
 ## About me.
 My name is Gonzalo Giampaolo, I am an Electrical Engineer from 🇦🇷 Argentina who really likes coding.
