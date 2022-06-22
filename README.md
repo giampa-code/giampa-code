@@ -22,7 +22,7 @@ My mission is to work for a more ⚖️just  and ♻️sustainable future, eithe
 
 
 
-- Programming Languages: [![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=white)](#) [![PHP](https://img.shields.io/badge/PHP-grey?style=flat&logo=javascript&logoColor=white)](#) 
+- Programming Languages: [![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=white)](#) [![PHP](https://img.shields.io/badge/PHP-grey?style=flat&logo=php&logoColor=white)](#) 
 - Data analysis: [![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/Numpy-grey?style=flat&logo=numpy&logoColor=white)](#)
 - Machine Learning: [![Scikit-Learn](https://img.shields.io/badge/Scikit-learn-grey?style=flat&logo=scikitlearn&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=flat&logo=tensorflow&logoColor=white)](#)
 - Automatation: [![Selenium](https://img.shields.io/badge/Selenium-grey?style=flat&logo=selenium&logoColor=white)](#)
