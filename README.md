@@ -15,6 +15,7 @@ My mission is to work for a more ⚖️just  and ♻️sustainable future, eithe
 ## Achievements
 ### Data Science
 - Top 1.5% in the [Housing Prices Competition for Kaggle Learn Users!](https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard?search=Gonzalo+Giampaolo) -> [Code](https://github.com/giampa-code/housing_price_kaggle)
+- Analysis between the quality of a government and the life quality of it inhabitants  -> [Results](https://github.com/giampa-code/life_quality_and_government/tree/master/reports)
 
 ## Techonologies
 
